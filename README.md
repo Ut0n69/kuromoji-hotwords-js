@@ -6,6 +6,8 @@
 
 Node.jsとkuromoji.jsで形態素解析し、ホットワードを編みだすサンプル。
 
+<img width="350px" src="https://github.com/Ut0n69/kuromoji-hotwords-js/blob/master/demo/result.png" />
+
 # セットアップ
 
 ## node_modules のインストール
