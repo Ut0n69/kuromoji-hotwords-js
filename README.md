@@ -16,7 +16,7 @@ yarn
 ```
 ## posts.jsの準備
 
-解析したい文字列を `posts.js` として作成。
+解析したい文字列を `src` ディレクトリ配下に `posts.js` として作成。
 
 ```js
 module.exports = `
